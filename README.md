@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nandan B Deshamukh!  
 
 ## 🚀 About Me  
-- 🎓 I'm a **Computer Science Engineering student** with a passion for **technology, innovation**.  
+- 🎓 I'm a **CSE student** with a passion for **technology, innovation**.  
 - 💻 Skilled in **Java, C++, JavaScript, HTML, CSS**, with experience in developing real-world applications.  
 - 🛠️ Always exploring new technologies and building innovative solutions to solve real-world problems.   
 
