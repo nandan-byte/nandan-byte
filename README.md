@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nandan B Deshamukh!</h1>
-<h3 align="center">🚀 CSE Student | Full-Stack Developer | Tech Explorer</h3>
+<h3 align="center">🚀 CSE Student | Tech Explorer</h3>
 
 ---
 
