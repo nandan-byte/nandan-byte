@@ -7,7 +7,7 @@
 
 - 🎓 I'm a **Computer Science Engineering** student passionate about **technology and innovation**
 - 💡 I enjoy solving real-world problems using **code + creativity**
-- 💻 Skilled in **Java, C++, JavaScript, HTML, CSS**, with hands-on experience building full-stack and AI-based projects
+- 💻 Skilled in **Java, C++, JavaScript, HTML, CSS**
 - 🚀 Currently exploring **React**, **Node.js**, and **Machine Learning**
 
 ---
