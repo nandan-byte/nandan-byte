@@ -40,6 +40,12 @@
 
 ---
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nandan-byte&show_icons=true&locale=en" alt="nandan-byte" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandan-byte&" alt="nandan-byte" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan-byte&show_icons=true&locale=en&layout=compact" alt="nandan-byte" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandan-byte" alt="nandan-byte" /></a></p>
+
+---
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/Nandan_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandan-deshamukh)  
