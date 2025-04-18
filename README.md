@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -29,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse" />
 </p>
@@ -40,12 +41,23 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nandan-byte&show_icons=true&locale=en" alt="nandan-byte" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandan-byte&" alt="nandan-byte" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan-byte&show_icons=true&locale=en&layout=compact" alt="nandan-byte" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandan-byte" alt="nandan-byte" /></a></p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandan-byte&show_icons=true&locale=en" alt="nandan-byte stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandan-byte" alt="nandan-byte streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan-byte&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandan-byte" alt="GitHub Trophies" /></a>
+</p>
 
 ---
+
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/Nandan_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandan-deshamukh)  
