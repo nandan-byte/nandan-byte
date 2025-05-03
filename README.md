@@ -63,7 +63,8 @@
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/Nandan_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandan-deshamukh)  
-[![Gmail](https://img.shields.io/badge/Gmail-nandan.deshamukh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandan.deshamukh@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-nandan.deshamukh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandan.deshamukh@gmail.com)<br>
+[![Visit my website](https://img.shields.io/badge/Visit_my_website-blue)](https://nandan-byte.netlify.app/)
 
 ---
 
