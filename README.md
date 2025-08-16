@@ -44,7 +44,6 @@
 </p>
 
 - **Oracle Certified Foundations Associate – AI Foundations (2025)**  
-- [Verify Credential](https://www.credly.com/) <!-- Replace with your actual credential link -->
 
 ---
 
