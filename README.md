@@ -45,10 +45,6 @@
 
 ---
 
-> I believe in **learning by building**. Every repo tells a story of growth and exploration! 🌱
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
