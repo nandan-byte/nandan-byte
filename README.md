@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a **Computer Science Engineering** student passionate about **technology and innovation**
+- 🎓 I'm a **Computer Science and Engineering** student passionate about **technology and innovation**
 - 💡 I enjoy solving real-world problems using **code + creativity**
 - 💻 Skilled in **Java, C++, JavaScript, HTML, CSS**
 - 🚀 Currently exploring **Machine Learning**
@@ -41,9 +41,7 @@
 
 <p align="left">
   <img src="OCI25AICFA.jpeg" alt="OCI AI Foundations Badge" height="120"/>
-</p>
-
-- **Oracle Certified Foundations Associate – AI Foundations (2025)**  
+</p>  
 
 ---
 
