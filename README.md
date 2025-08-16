@@ -37,6 +37,17 @@
 
 ---
 
+## 🏅 Certifications
+
+<p align="left">
+  <img src="OCI25AICFA.jpeg" alt="OCI AI Foundations Badge" height="120"/>
+</p>
+
+- **Oracle Certified Foundations Associate – AI Foundations (2025)**  
+- [Verify Credential](https://www.credly.com/) <!-- Replace with your actual credential link -->
+
+---
+
 > I believe in **learning by building**. Every repo tells a story of growth and exploration! 🌱
 
 ---
